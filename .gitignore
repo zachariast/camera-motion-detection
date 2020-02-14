@@ -1,0 +1,5 @@
+captured_images/*
+*.csv
+*.html
+.vscode
+__pycache__
